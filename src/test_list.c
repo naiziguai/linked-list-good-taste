@@ -93,3 +93,4 @@ int main(void)
         printf("Tests run: %d\n", tests_run);
         return !!result;
 }
+//we should be happy
